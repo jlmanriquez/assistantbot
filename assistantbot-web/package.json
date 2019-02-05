@@ -1,0 +1,23 @@
+{
+    "name": "assistantbot-web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://jose.manriquez@gitlab.com/jose.manriquez/assistantbot-web.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/jose.manriquez/assistantbot-web/issues"
+    },
+    "homepage": "https://gitlab.com/jose.manriquez/assistantbot-web#README",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
